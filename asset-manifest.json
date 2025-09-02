@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/grand-chase-checklist/static/css/main.e6c13ad2.css",
-    "main.js": "/grand-chase-checklist/static/js/main.bfb21bf5.js",
+    "main.js": "/grand-chase-checklist/static/js/main.f7e70bb1.js",
     "static/js/453.606e8cf2.chunk.js": "/grand-chase-checklist/static/js/453.606e8cf2.chunk.js",
     "index.html": "/grand-chase-checklist/index.html",
     "main.e6c13ad2.css.map": "/grand-chase-checklist/static/css/main.e6c13ad2.css.map",
-    "main.bfb21bf5.js.map": "/grand-chase-checklist/static/js/main.bfb21bf5.js.map",
+    "main.f7e70bb1.js.map": "/grand-chase-checklist/static/js/main.f7e70bb1.js.map",
     "453.606e8cf2.chunk.js.map": "/grand-chase-checklist/static/js/453.606e8cf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.bfb21bf5.js"
+    "static/js/main.f7e70bb1.js"
   ]
 }
